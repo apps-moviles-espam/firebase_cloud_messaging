@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "297794310606",
+    "project_id": "send-notifications-2707b",
+    "storage_bucket": "send-notifications-2707b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297794310606:android:be7929676654e1723c1b9f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_send_notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4nvCtB5LnhrfaqvctMuCHUcDnCsn8Pzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
